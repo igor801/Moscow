@@ -1,6 +1,6 @@
 package ru.moscow.mt;
 
-public class MTClass {
+public class OneClass {
     public static void main(String[] args) {
         int a;
         int b;
