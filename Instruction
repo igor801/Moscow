@@ -1,0 +1,26 @@
+HOT KEY
+psvm
+sout
+fori
+
+классы и объекты
+
+/**
+* @author BabikovIgor
+* @version
+*/
+
+name project = Project12102022
+name package = ru.bear.moscow
+name class = ClassMoscow
+
+code->reformat code
+
+Random random = new Random();
+random.nextInt()  //случайное целое число
+random.nextInt(9) //случайное целое число в диапозоне от 0 до 9
+
+индексировать переменные в созданном классе
+генератор - генерируем конструктор (переменные не забыть вверх)
+генератор - генерируем геттеры и сеттеры
+генератор - генерируем toString()
