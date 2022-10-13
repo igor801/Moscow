@@ -5,10 +5,15 @@ public class MTClass {
         int a;
         int b;
         a = 23;
-        b = 23;
-        if (a != b) {
+        b = 24;
+        if (a == b) {
             System.out.println("true");
-        } else System.out.println("false");
+        } else if (a>b){
+            System.out.println("false");
+        } else if (a<b) {
+            System.out.println("!!");
+        }
+
 
     }
 }
